@@ -2,3 +2,4 @@
 "Build definition: 52 !" 
 "Build definition: 52 !" 
 "Build definition: 52 !" 
+"Build definition: GitHub-CITrigger-Tester_20180122.6 !" 
