@@ -4,3 +4,4 @@
 "Build definition: 52 !" 
 "Build definition: GitHub-CITrigger-Tester_20180122.6 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20180123.1 !" 
+"Build definition: Trigger-GitHub-CI-Tester_20180129.1 !" 
