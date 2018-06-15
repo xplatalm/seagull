@@ -76,3 +76,4 @@
 "Build definition: Trigger-GitHub-CI-Tester_20180612.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20180613.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20180614.1 !" 
+"Build definition: Trigger-GitHub-CI-Tester_20180615.1 !" 
