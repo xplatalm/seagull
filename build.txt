@@ -169,3 +169,4 @@
 "Build definition: Trigger-GitHub-CI-Tester_20181017.2 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20181018.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20181019.1 !" 
+"Build definition: Trigger-GitHub-CI-Tester_20181022.1 !" 
