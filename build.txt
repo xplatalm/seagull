@@ -711,3 +711,4 @@
 "Build definition: Trigger-GitHub-CI-Tester_20200617.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20200618.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20200619.1 !" 
+"Build definition: Trigger-GitHub-CI-Tester_20200620.1 !" 
