@@ -1265,3 +1265,4 @@ Build definition: %BUILD_BUILDNUMBER% !
 "Build definition: Trigger-GitHub-CI-Tester_20211229.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20211230.1 !" 
 "Build definition: Trigger-GitHub-CI-Tester_20211231.1 !" 
+"Build definition: Trigger-GitHub-CI-Tester_20220101.1 !" 
